@@ -1,0 +1,4 @@
+/usr/local/bin/cmake -DCMAKE_BUILD_TYPE=Release -DCMAKE_MAKE_PROGRAM=/home/matthew/.local/share/JetBrains/Toolbox/apps/CLion/ch-0/213.7172.20/bin/ninja/linux/ninja -DCMAKE_C_COMPILER=/bin/gcc-11 -DCMAKE_CXX_COMPILER=/bin/g++-11 -G Ninja /home/matthew/cpp-base-hse-2022/projects/image_processor
+-- Configuring done
+-- Generating done
+-- Build files have been written to: /home/matthew/cpp-base-hse-2022/projects/image_processor/cmake-build-release
